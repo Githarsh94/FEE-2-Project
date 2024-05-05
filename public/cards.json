@@ -1,0 +1,152 @@
+{
+    "songs1": [
+        {
+            "id": 1,
+            "title": "Still Rollin",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e021a8c4618eda885a406958dd0",
+            "description": "Shubh",
+            "audio": "./gannetere/Still Rollin.mp3",
+            "isFav": false
+        },
+        {
+            "id": 2,
+            "title": "Husn",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e020d3449f333a83a25feb423f8",
+            "description": "Anuv Jain",
+            "audio": "./gannetere/Husn.mp3",
+            "isFav": false
+        },
+        {
+            "id": 3,
+            "title": "Satranga (From Animal)",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e02021d7017f73387b008eab271",
+            "description": "Arijit Singh, Shreyas Puranik, Siddharth",
+            "audio": "./gannetere/Satranga.mp3",
+            "isFav": false
+        },
+        {
+            "id": 4,
+            "title": "Admirin You",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e02bb25239324c4e16ae01fda36",
+            "description": " Karan Aujla, Ikky",
+            "audio": "./gannetere/Admirin You.mp3",
+            "isFav": false
+        },
+        {
+            "id": 5,
+            "title": "Meri Aashiqui ",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e026404721c1943d5069f0805f3",
+            "description": "Mithoon,Ankit Tiwari,Jeet Gannguli",
+            "audio": "./gannetere/Meri Aashiqui.mp3",
+            "isFav": false
+        },
+        {
+            "id": 6,
+            "title": "Magic",
+            "imageUrl": "https://i.scdn.co/image/ab67616d00001e02cb2f9520171129a3df7a241a",
+            "description": "Diljit Dosanjh",
+            "audio": "./gannetere/Magic.mp3",
+            "isFav": false
+        }
+    ],
+    "songs2": [
+        {
+            "id": 1,
+            "title": "Sidhu Moose Wala Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/4PULA4EFzYTrxYvOVlwpiQ/en",
+            "description": "With Ammy Virk, Amrit Maan, Karan Aujla and more",
+            "audio": "./gannetere/295.mp3",
+            "isFav": false
+        },
+        {
+            "id": 2,
+            "title": "Shreya Ghosal Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/0oOet2f43PA68X5RxKobEy/en",
+            "description": "With Sonu Nigam, Sunidhi Chauhan, Shaan and more",
+            "audio": "./gannetere/Ve Kamleya.mp3",
+            "isFav": false
+        },
+        {
+            "id": 3,
+            "title": "Arijit Singh Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/4YRxDV8wJFPHPTeXepOstw/en-GB",
+            "description": "With Neha Kakkar, Pritam, KK and more",
+            "audio": "./gannetere/Aaj Phir.mp3",
+            "isFav": false
+        },
+        {
+            "id": 4,
+            "title": "Diljit Dosanjh Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/2FKWNmZWDBZR4dE5KX4plR/en-GB",
+            "description": "With Garry Sandhu, Ranjit Bawa, Amrinder Gill and more",
+            "audio": "./gannetere/Patiala Peg.mp3",
+            "isFav": false
+        },
+        {
+            "id": 5,
+            "title": "Kumar Sanu Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/4K6blSRoklNdpw4mzLxwfn/en",
+            "description": "With Udit Narayan, Alka Yagnik, Anuradha Paudwal and more",
+            "audio": "./gannetere/Main Agar Kahoon.mp3",
+            "isFav": false
+        },
+        {
+            "id": 6,
+            "title": "KK Radio",
+            "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/4fEkbug6kZzzJ8eYX6Kbbp/en-GB",
+            "description": "With Ankit Tiwari, Mohit Chauhan, Javed Ali and more",
+            "audio": "./gannetere/Zara Sa.mp3",
+            "isFav": false
+        }
+    ],
+    "songs3": [
+        {
+            "id": 1,
+            "title": "Sleep",
+            "imageUrl": "https://i.scdn.co/image/ab67706f0000000281722192322800ae99c2ed06",
+            "description": "Gentle Ambient piano to help you fall asleep",
+            "audio": "./gannetere/scott.mp3",
+            "isFav": false
+        },
+        {
+            "id": 2,
+            "title": "Night Rain",
+            "imageUrl": "https://i.scdn.co/image/ab67706f000000028998614b3281e12596844039",
+            "description": "Sleep with sounds of pouring rain.",
+            "audio": "./gannetere/Lonely.mp3",
+            "isFav": false
+        },
+        {
+            "id": 3,
+            "title": "Deep Sleep",
+            "imageUrl": "https://i.scdn.co/image/ab67706f000000027da11e4e02c0da2f543ea20f",
+            "description": "Soothing,minimalist, ambient for deep sleep.",
+            "audio": "./gannetere/Sonder.mp3",
+            "isFav": false
+        },
+        {
+            "id": 4,
+            "title": "Lofi Beats",
+            "imageUrl": "https://i.scdn.co/image/ab67706f0000000254473de875fea0fd19d39037",
+            "description": "Chill beats, lofi vibes, new tracks every week... ",
+            "audio": "./gannetere/alex.mp3",
+            "isFav": false
+        },
+        {
+            "id": 5,
+            "title": "Chillout Lounge",
+            "imageUrl": "https://i.scdn.co/image/ab67706f00000002dec17246891b5b4eb97bdb0d",
+            "description": "Just lean back and enjoy relaxed beats.",
+            "audio": "./gannetere/Evening.mp3",
+            "isFav": false
+        },
+        {
+            "id": 6,
+            "title": "Stress Relief",
+            "imageUrl": "https://i.scdn.co/image/ab67706f0000000231ca8abcbff3f5a3eb1fd339",
+            "description": "Calm your mind from anxiety with gentle piano and ambient music.",
+            "audio": "./gannetere/Midnight.mp3",
+            "isFav": false
+        }
+    ]
+}
