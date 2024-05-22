@@ -36,7 +36,7 @@ function Musioca() {
     } else {
       // If data doesn't exist, fetch from the API
       console.log("empty");
-      fetch('http://127.0.0.1:3000/api/songs', {
+      fetch('https://musioca-api.onrender.com/api/songs', {
         headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
